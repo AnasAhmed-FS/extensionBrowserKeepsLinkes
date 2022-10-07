@@ -1,0 +1,16 @@
+
+{
+    "name": "Keep linkers",
+    "version": "0.2",
+    "manifest_version": 3,
+    "description": "This extension to save Linkes",
+ 
+    "action": {
+      "default_icon": "linkerIcon.png",
+      "default_title": "page action demo",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs"
+      ]
+}
